@@ -1,4 +1,4 @@
-FROM node:lts-stretch-slim
+FROM node:lts-stretch
 
 RUN npm i -g firebase-tools@7.3.2
 
